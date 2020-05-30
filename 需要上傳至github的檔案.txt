@@ -1,0 +1,17 @@
+資料夾：
+說明圖片
+imgs_face_representative_male
+
+程式碼：
+計算機程式期末專案_超級明星臉.ipynb
+
+模型訓練相關的檔案：
+myModel_male.h5
+class_names_male.pickle
+my_face.jpg
+
+其他檔案：
+chromedriver.exe
+haarcascade_frontalface_default.xml
+明星列表.txt
+網路溫度計 - 歌手天團 - 網路聲量 前兩百名的歌手及樂團名稱_2020-05-17.txt
